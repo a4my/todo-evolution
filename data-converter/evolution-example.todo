@@ -1,0 +1,11 @@
+# TODO
+
+- [ ] Call that very important client 
+      Only available on Tuesdays and Thursdays
+      | P: 1 | T: today, 13:00 | D: 1 h
+- [ ] **Household chores**: @AF
+      List of things we need to do repeatedly to keep the house in order
+  - [ ] Clean the house, including garden 
+        | P: 4 | T: Every month, 13:00 | D: 120 m
+  - [ ] Take out the "trash" 
+        | P: 3 | T: Every Friday
